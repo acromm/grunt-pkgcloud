@@ -34,7 +34,7 @@
     "gruntplugin"
   ],
   "dependencies": {
-    "pkgcloud": "~1.1.0",
+    "pkgcloud": "~0.9.6",
     "q": "~1.0.1"
   }
 }
